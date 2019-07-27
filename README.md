@@ -1,6 +1,5 @@
 # Recipe Scrambler
 Minecraft plugin for 1.12 and above which making that every recipe has a new output.
-Idea for plugin is from Graf series "Strumykowo". Sorry for messy code.
 
 ### Install
 Click Releases and download .jar file > put into your plugins folder.
@@ -12,3 +11,4 @@ Second one are exceptions. If you are casual and want to have a normal recipe fo
 ### Credits:
 Graf - His series "Strumykowo" was idea for this plugin.
 
+#### Also if you find any bug feel free to open issue :D
