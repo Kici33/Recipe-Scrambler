@@ -1,0 +1,7 @@
+name: RecipeScrambler
+version: 0.1
+author: Kici33
+main: me.kici33.recipes.Recipe
+
+commands:
+  shuffle:

@@ -1,0 +1,8 @@
+# Don't worry about this. Seed will be shown after any reboot/reload of server.
+seed:
+
+# Those items will stay with default recipe.
+stay-items:
+  - "STICK"
+  - "WORKBENCH"
+  - "WOOD"
